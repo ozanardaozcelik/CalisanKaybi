@@ -1,11 +1,11 @@
-# 📉 CalisanKaybi (Employee Retention AI Bot)
+# 📉 EmployeeLoss (Employee Retention AI Bot)
 
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange?style=flat)
 ![Interface](https://img.shields.io/badge/Interface-Gradio-yellow?style=flat)
 ![Status](https://img.shields.io/badge/Status-Model%20Showcase-lightgrey?style=flat)
 
-**CalisanKaybi** is an AI-powered chatbot designed to analyze employee feedback, detect sentiment, and categorize complaints/suggestions to improve company culture and reduce turnover.
+**EmployeeLoss** is an AI-powered chatbot designed to analyze employee feedback, detect sentiment, and categorize complaints/suggestions to improve company culture and reduce turnover.
 
 This repository serves as a **showcase for the serialized model (`.pkl`) and architecture**. Due to the presence of proprietary company data and Personally Identifiable Information (PII), the full source code and dataset are not publicly available.
 
